@@ -11,4 +11,5 @@ I milioncini ci aspettano, nulla da aggiungere
 ## BACARO TOUR app
 
 Old but gold
-Copiamo spudoratamente dal tipo ([Randy Olson](https://github.com/rhiever)), esempi [qua](https://github.com/rhiever/optimal-roadtrip-usa)
+
+Copiamo spudoratamente dal tipo ([Randy Olson](https://github.com/rhiever)), esempi [qua](https://github.com/rhiever/optimal-roadtrip-usa), per venezia e aggiungiamo l'interattivita, in modo che l'utente possa scegleire quali bacari
