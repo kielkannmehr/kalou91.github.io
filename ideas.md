@@ -11,3 +11,4 @@ I milioncini ci aspettano, nulla da aggiungere
 ## BACARO TOUR app
 
 Old but gold
+Copiamo spudoratamente dal tipo ([Randy Olson](https://github.com/rhiever)), esempi [qua](https://github.com/rhiever/optimal-roadtrip-usa)
