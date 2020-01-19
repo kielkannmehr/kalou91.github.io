@@ -35,10 +35,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Amatic SC", sans-serif}
     <h1 class="w3-center w3-jumbo" style="margin-bottom:64px">Why are we making games?</h1>
     <div class="w3-row w3-center w3-border w3-border-dark-grey w3-light-green">
       <a href="javascript:void(0)" onclick="openMenu(event, 'FULL');" id="myLink">
-        <div class="w3-col s6 tablink w3-padding-large w3-hover-black">Full Explanation</div>
+        <div class="w3-col s6 tablink w3-padding-large w3-hover-dark-grey">Full Explanation</div>
       </a>
       <a href="javascript:void(0)" onclick="openMenu(event, 'TLDR');">
-        <div class="w3-col s6 tablink w3-padding-large w3-hover-black">TL;DR</div>
+        <div class="w3-col s6 tablink w3-padding-large w3-hover-dark-grey">TL;DR</div>
       </a>
     </div>
 
@@ -74,10 +74,10 @@ function openMenu(evt, menuName) {
   }
   tablinks = document.getElementsByClassName("tablink");
   for (i = 0; i < x.length; i++) {
-     tablinks[i].className = tablinks[i].className.replace(" w3-red", "");
+     tablinks[i].className = tablinks[i].className.replace(" w3-black", "");
   }
   document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " w3-red";
+  evt.currentTarget.firstElementChild.className += " w3-black";
 }
 document.getElementById("myLink").click();
 </script>
